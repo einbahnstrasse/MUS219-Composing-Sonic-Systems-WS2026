@@ -27,7 +27,7 @@ last_modified_at: 2026-01-13
 **CRN:** 10346/10470    
 **Credits:** 1   
 **Semester:** Winter/Spring 2026   
-**Time:** Mondays, Wednesdays, and Fridays from 14:40—16:00     
+**Time:** Mondays and Wednesdays from 14:40—16:00     
 **Location:** Bates Sound Studio (Olin 302)  
 **Format:** Lecture/Demonstration    
 **Modality:** In-person   
