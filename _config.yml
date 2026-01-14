@@ -25,7 +25,7 @@ logo: "/assets/CSS.favicon.v01c.drawio.svg"
 lunr:  
   search_within_pages: true   
 
-baseurl: /exp-jekyll-with-firebase-v01
+baseurl: "/MUS219-Composing-Sonic-Systems-WS2026"
 
 # Build settings
 markdown: kramdown
