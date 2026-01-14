@@ -15,7 +15,7 @@ read_time: true
 show_date: true  
 date_format: "%Y-%m-%d"  
 date: 2025-08-25  
-last_modified_at: 2025-08-25   
+last_modified_at: 2026-01-13   
 
 ---
 
@@ -465,31 +465,6 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING pag
 <td markdown="span">13</td>
 <td markdown="span">{{ site.week-13 }}</td>
 <td markdown="span"><a href="{{ site.baseurl }}/schedule/#w13" target="_blank">{{ site.week-13-topic }}</a></td>
-</tr>
-<tr>
-<td markdown="span">14</td>
-<td markdown="span">{{ site.week-14 }}</td>
-<td markdown="span"><a href="{{ site.baseurl }}/schedule/#w14" target="_blank">{{ site.week-14-topic }}</a></td>
-</tr>
-<tr>
-<td markdown="span">15</td>
-<td markdown="span">{{ site.week-15 }}</td>
-<td markdown="span"><a href="{{ site.baseurl }}/schedule/#w15" target="_blank">{{ site.week-15-topic }}</a></td>
-</tr>
-<tr>
-<td markdown="span">16</td>
-<td markdown="span">{{ site.week-16 }}</td>
-<td markdown="span"><a href="{{ site.baseurl }}/schedule/#w16" target="_blank">{{ site.week-16-topic }}</a></td>
-</tr>
-<tr>
-<td markdown="span">17</td>
-<td markdown="span">{{ site.week-17 }}</td>
-<td markdown="span"><a href="{{ site.baseurl }}/schedule/#w17" target="_blank">{{ site.week-17-topic }}</a></td>
-</tr>
-<tr>
-<td markdown="span">18</td>
-<td markdown="span">{{ site.week-18 }}</td>
-<td markdown="span"><a href="{{ site.baseurl }}/schedule/#w18" target="_blank">{{ site.week-18-topic }}</a></td>
 </tr>
 </tbody>
 </table>
