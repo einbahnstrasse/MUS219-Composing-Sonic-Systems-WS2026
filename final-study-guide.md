@@ -18,7 +18,7 @@ last_modified_at: 2025-11-25
 
 ---  
 
-Although it's been published on our site this semester, a gentle reminder that the written portion of our final exma will be distributed on **Friday, December 5, 2025**. You can read more about this exam [here.](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/assignments/final-exam/){:target="_blank"}      
+Although it's been published on our site this semester, a gentle reminder that the written portion of our final exma will be distributed on **Friday, December 5, 2025**. You can read more about this exam [here.](https://einbahnstrasse.github.io/MUS219-Composing-Sonic-Systems-WS2026/assignments/final-exam/){:target="_blank"}      
 
 Use this study guide to prepare for the exam, which covers concepts and terminology given each week and listed on our weekly schedule. The study guide provides a few sample questions representing the types of short answer questions that you might encounter on the exam iteself.    
 

@@ -96,23 +96,23 @@ _Darius, Kieran, Ronan_
 
 Find your instrument(s) assignments in these photos:  
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.gambang.v01.jpg" alt="gamelan.gambang.v01.jpg">
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/bates.gamelan.instruments/gamelan.gambang.v01.jpg" alt="gamelan.gambang.v01.jpg">
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.gender.jpg" alt="gamelan.gender.jpg">
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/bates.gamelan.instruments/gamelan.gender.jpg" alt="gamelan.gender.jpg">
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.kempul.gong.v01.jpg" alt="gamelan.kempul.gong.v01.jpg">
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/bates.gamelan.instruments/gamelan.kempul.gong.v01.jpg" alt="gamelan.kempul.gong.v01.jpg">
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.kempul.v01.jpg" alt="gamelan.kempul.v01.jpg">
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/bates.gamelan.instruments/gamelan.kempul.v01.jpg" alt="gamelan.kempul.v01.jpg">
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.kenong.v01.jpg" alt="gamelan.kenong.v01.jpg">
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/bates.gamelan.instruments/gamelan.kenong.v01.jpg" alt="gamelan.kenong.v01.jpg">
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.kenong.v02.jpg" alt="gamelan.kenong.v02.jpg">
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/bates.gamelan.instruments/gamelan.kenong.v02.jpg" alt="gamelan.kenong.v02.jpg">
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.slenthem.and.kenong.v01.jpg" alt="gamelan.slenthem.and.kenong.v01.jpg">
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/bates.gamelan.instruments/gamelan.slenthem.and.kenong.v01.jpg" alt="gamelan.slenthem.and.kenong.v01.jpg">
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.slenthem.v01.jpg" alt="gamelan.slenthem.v01.jpg">
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/bates.gamelan.instruments/gamelan.slenthem.v01.jpg" alt="gamelan.slenthem.v01.jpg">
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamlean.bonang.jpg" alt="gamlean.bonang.jpg">
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/bates.gamelan.instruments/gamlean.bonang.jpg" alt="gamlean.bonang.jpg">
 
 
 

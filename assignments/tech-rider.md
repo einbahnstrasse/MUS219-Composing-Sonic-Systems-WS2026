@@ -65,7 +65,7 @@ By adopting this workflow, you will have a clear document that you can show to a
 ## Assignment Instructions  
 
 ### A. Study the Examples    
-[Examine these technical rider plots located here.](/MUS218A-Soundscapes-FA2025/assets/docs/Audio-and-Layout-Diagram-Examples.pdf){:target="_blank"} Can you read what each piece requires? Follow the signal flow from the stage to the mixer, and finally to the speakers. Can you interpret the audio connection matrices?    
+[Examine these technical rider plots located here.](/MUS219-Composing-Sonic-Systems-WS2026/assets/docs/Audio-and-Layout-Diagram-Examples.pdf){:target="_blank"} Can you read what each piece requires? Follow the signal flow from the stage to the mixer, and finally to the speakers. Can you interpret the audio connection matrices?    
 
 ### B. Technical Summary Information    
 Once you've made a copy of the template above, fill out the boxes labeled Technical Summary, Notes, Details, Artist Equipment, and Instrumentation. Example entries have been placed throughout the template to show you how this works. Delete these example responses and replace them with your own. 

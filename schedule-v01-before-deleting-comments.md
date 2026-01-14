@@ -54,21 +54,21 @@ _Subscribe to our class Google calendar to see our upcoming deadlines. Daily sch
 Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9){:target="_blank"}   
 
 #### Start-of-Semester Business  
-* Review [Syllabus + Course Policies](/MUS218A-Soundscapes-FA2025/){:target="_blank"} 
-* Review [Software + Resources](/MUS218A-Soundscapes-FA2025/resources/){:target="_blank"}  
+* Review [Syllabus + Course Policies](/MUS219-Composing-Sonic-Systems-WS2026/){:target="_blank"} 
+* Review [Software + Resources](/MUS219-Composing-Sonic-Systems-WS2026/resources/){:target="_blank"}  
     
 #### Cage Discussion   
-[_You Mean It's Just Sounds?!_](/MUS218A-Soundscapes-FA2025/in-class/cage-just-sounds/){:target="_blank"}   
+[_You Mean It's Just Sounds?!_](/MUS219-Composing-Sonic-Systems-WS2026/in-class/cage-just-sounds/){:target="_blank"}   
 
 #### Assignments  
 * <span style="color: red;">Install Reaper before Friday! <em>(See Resources page for instructions).</em></span>  
-* [Auditory Vantage Point (due by start of Week 2)](/MUS218A-Soundscapes-FA2025/assignments/auditory-vantage-point/){:target="_blank"}   
+* [Auditory Vantage Point (due by start of Week 2)](/MUS219-Composing-Sonic-Systems-WS2026/assignments/auditory-vantage-point/){:target="_blank"}   
 
 ### Friday 9/5  
 
 #### Start-of-Semester Business  
-* Revew [Studio Policies](/MUS218A-Soundscapes-FA2025/studio/){:target="_blank"}   
-* Review [Detailed Breakdown of Grading](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}   
+* Revew [Studio Policies](/MUS219-Composing-Sonic-Systems-WS2026/studio/){:target="_blank"}   
+* Review [Detailed Breakdown of Grading](/MUS219-Composing-Sonic-Systems-WS2026/grading/){:target="_blank"}   
 
 #### Demonstrations     
 * Introduction to Reaper    
@@ -91,11 +91,11 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 #### Listening   
 * [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
-* [Joshua Banks Mailman‘s analysis of _Dripsody_](/MUS218A-Soundscapes-FA2025/assets/images/Mailman.Dripsody.Analysis.png){:target="_blank"}  
+* [Joshua Banks Mailman‘s analysis of _Dripsody_](/MUS219-Composing-Sonic-Systems-WS2026/assets/images/Mailman.Dripsody.Analysis.png){:target="_blank"}  
    
 #### Assignments  
 * <span style="color: red;">Install Reaper before Monday! <em>(See Resources page for instructions).</em></span>  
-* [Mic Technique + Voice Recording Assignment (due by start of Week 3)](/MUS218A-Soundscapes-FA2025/assignments/mic-technique/){:target="_blank"}   
+* [Mic Technique + Voice Recording Assignment (due by start of Week 3)](/MUS219-Composing-Sonic-Systems-WS2026/assignments/mic-technique/){:target="_blank"}   
    
 #### Terms, Concepts, Objects, Shortcuts    
 - `coil`   
@@ -138,7 +138,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 {% include video id="71hNl_skTZQ?si=czok95rD1imWezX9" provider="youtube" %}  
 
 #### Deadlines    
-* [Auditory Vantage Point](/MUS218A-Soundscapes-FA2025/assignments/auditory-vantage-point/){:target="_blank"}   
+* [Auditory Vantage Point](/MUS219-Composing-Sonic-Systems-WS2026/assignments/auditory-vantage-point/){:target="_blank"}   
 
 #### Terms, Concepts, Objects, Shortcuts    
 - `frequency`  
@@ -172,12 +172,12 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 #### More on Iannis Xenakis        
 * Grella, George. 2025. The Musical Architecture of Iannis Xenakis.” Bandcamp Daily, August 14, 2025. [https://daily.bandcamp.com/lists/iannis-xenakis-album-guide](https://daily.bandcamp.com/lists/iannis-xenakis-album-guide){:target="_blank"}  
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/philips.pavilion.speakers.jpg" alt="Philips Pavillion" width="650">  
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/philips.pavilion.speakers.jpg" alt="Philips Pavillion" width="650">  
 
 [Philips Pavilion (1958)](https://www.tu.berlin/en/ak/research/projects/virtual-electronic-poem-the-audio-reconstruction){:target="_blank"}, _showing the approximate locations of 350 loudspeakers hidden in the walls for diffusion_.   
 
 #### Demonstrations   
-* [What Are Treatments?](/MUS218A-Soundscapes-FA2025/in-class/treatments/){:target="_blank"}  
+* [What Are Treatments?](/MUS219-Composing-Sonic-Systems-WS2026/in-class/treatments/){:target="_blank"}  
 * Treatments in action     
 * Acousmatic Listening principles    
 
@@ -256,7 +256,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 * Check-out recording kits to each team 
 
 #### Assignments    
-* [Sampling the Gamelan (due at the start of Week 4)](/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/){:target="_blank"}   
+* [Sampling the Gamelan (due at the start of Week 4)](/MUS219-Composing-Sonic-Systems-WS2026/assignments/sampling-gamelan/){:target="_blank"}   
 
 #### Terms, Concepts, Objects, Shortcuts    
 * `audio sample`   
@@ -359,13 +359,13 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 ### Monday 9/22   
 
 #### Deadlines    
-* [Sampling the Gamelan](/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/){:target="_blank"}   
+* [Sampling the Gamelan](/MUS219-Composing-Sonic-Systems-WS2026/assignments/sampling-gamelan/){:target="_blank"}   
 
 #### Tutorials  
 * [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
 #### Assignments   
-* [XLR Cable Coiling (due at the start of Week 5)](/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/){:target="_blank"} 
+* [XLR Cable Coiling (due at the start of Week 5)](/MUS219-Composing-Sonic-Systems-WS2026/assignments/xlr-cable-coiling/){:target="_blank"} 
 
 ### Wednesday 9/24  
 
@@ -385,7 +385,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * [PaulXStretch](https://sonosaurus.com/paulxstretch/){:target="_blank"}  
    
 #### Assignments  
-* Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MUS218A-Soundscapes-FA2025/midterm/){:target="_blank"}   
+* Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MUS219-Composing-Sonic-Systems-WS2026/midterm/){:target="_blank"}   
 * Watch the following video and build automation into your 3-Minute Sketch: [Automation in Reaper and Ableton Live](https://youtu.be/l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M){:target="_blank"}   
 {% include video id="l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M" provider="youtube" %}   -->
   
@@ -397,10 +397,10 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 ### Monday 9/29  
 
 #### Deadlines    
-* [XLR Cable Coiling](/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/){:target="_blank"} 
+* [XLR Cable Coiling](/MUS219-Composing-Sonic-Systems-WS2026/assignments/xlr-cable-coiling/){:target="_blank"} 
 
 #### Assignments   
-* [Field Recording + Micromontage Etude (due at the start of Week 7)](/MUS218A-Soundscapes-FA2025/assignments/micromontage-field-recording-etude/){:target="_blank"} 
+* [Field Recording + Micromontage Etude (due at the start of Week 7)](/MUS219-Composing-Sonic-Systems-WS2026/assignments/micromontage-field-recording-etude/){:target="_blank"} 
 
 ### Wednesday 10/1   
 
@@ -430,10 +430,10 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 ### Monday 10/13    
 
 #### Deadlines   
-* [Field Recording + Micromontage Etude](/MUS218A-Soundscapes-FA2025/assignments/micromontage-field-recording-etude/){:target="_blank"} 
+* [Field Recording + Micromontage Etude](/MUS219-Composing-Sonic-Systems-WS2026/assignments/micromontage-field-recording-etude/){:target="_blank"} 
 
 #### Assignments    
-* [Midterm 3-Minute Sketch (due at the start of Week 9)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
+* [Midterm 3-Minute Sketch (due at the start of Week 9)](/MUS219-Composing-Sonic-Systems-WS2026/assignments/midterm/){:target="_blank"}   
 
 ### Wednesday 10/15  
 _Fall Recess: No class!_   
@@ -463,7 +463,7 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 
 _Choose auto-generated German translations of subtitles if it would help:_  
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200"> -->
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200"> -->
 <!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
 <!-- #### Assignments  
@@ -481,7 +481,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 ### Friday 10/24   
 
 #### Assignments    
-* [Composite Timbre Etude (due at the start of Week 10)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}  
+* [Composite Timbre Etude (due at the start of Week 10)](/MUS219-Composing-Sonic-Systems-WS2026/assignments/midterm/){:target="_blank"}  
    
 <!-- #### Tutorials  
 * Fundamentals of musique concrete   
@@ -500,10 +500,10 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 ### Monday 10/27  
 
 #### Deadlines    
-* [Midterm 3-Minute Sketch](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
+* [Midterm 3-Minute Sketch](/MUS219-Composing-Sonic-Systems-WS2026/assignments/midterm/){:target="_blank"}   
 
 #### Assignments     
-* [Final Multichannel Fixed Media Piece (due November 21)](/MUS218A-Soundscapes-FA2025/assignments/final-multichannel-fixed-piece/){:target="_blank"}  
+* [Final Multichannel Fixed Media Piece (due November 21)](/MUS219-Composing-Sonic-Systems-WS2026/assignments/final-multichannel-fixed-piece/){:target="_blank"}  
 
 ### Wednesday 10/29    
 
@@ -526,7 +526,7 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 _Choose auto-generated German translations of subtitles if it would help. (See example image above in Week 6.)_  
 
 #### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="/MUS218A-Soundscapes-FA2025/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
+* <span style="color: red;"><em>Deadline for <a href="/MUS219-Composing-Sonic-Systems-WS2026/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 * <span style="color: red;">Install MaxMSP before Week 10 <em>(See Resources page for instructions).</em></span>   -->
 
 * * *  
@@ -537,7 +537,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ### Monday 11/3    
 
 #### Deadlines    
-* [Composite Timbre Etude](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}  
+* [Composite Timbre Etude](/MUS219-Composing-Sonic-Systems-WS2026/assignments/midterm/){:target="_blank"}  
 
 ### Wednesday 11/5  
 
@@ -547,7 +547,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * ['Mixing Secrets' Multitrack Library](https://cambridge-mt.com/ms/mtk-newbies/#EntryLevel){:target="_blank"}  
 * [Mixing Instruments by Frequency Range:](https://imbat.wordpress.com/2017/06/05/music-instrument-freqencies/){:target="_blank"}  
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/eq-chart-1.png" alt="Mixing Instruments by Frequency Range">
+<img src="/MUS219-Composing-Sonic-Systems-WS2026/assets/images/eq-chart-1.png" alt="Mixing Instruments by Frequency Range">
 
 #### Downloads     
 * [Boiler Audio Files for MaxMSP](https://github.com/einbahnstrasse/MHL-SM-sounds-v01){:target="_blank"}     -->
@@ -585,7 +585,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 #### Deadlines   
 
-* [Final Multichannel Fixed Media Piece](/MUS218A-Soundscapes-FA2025/assignments/final-multichannel-fixed-piece/){:target="_blank"}  
+* [Final Multichannel Fixed Media Piece](/MUS219-Composing-Sonic-Systems-WS2026/assignments/final-multichannel-fixed-piece/){:target="_blank"}  
 
 #### Tutorials  
 
@@ -606,7 +606,7 @@ _No classes this week!_
 ### Monday 12/1  
 
 #### Assignments    
-* [Technical Rider of Your Wildest Dreams (due on Monday 12/8)](/MUS218A-Soundscapes-FA2025/assignments/tech-rider/){:target="_blank"}  
+* [Technical Rider of Your Wildest Dreams (due on Monday 12/8)](/MUS219-Composing-Sonic-Systems-WS2026/assignments/tech-rider/){:target="_blank"}  
      
 ### Wednesday 12/3  
 
@@ -616,7 +616,7 @@ _Last day of class._
 
 #### Final Exam     
 
-* [Final Written Exam](/MUS218A-Soundscapes-FA2025/assignments/final-exam/){:target="_blank"}  
+* [Final Written Exam](/MUS219-Composing-Sonic-Systems-WS2026/assignments/final-exam/){:target="_blank"}  
    
 * * *  
 
@@ -627,7 +627,7 @@ _Last day of class._
 
 #### Deadlines   
 
-* [Technical Rider of Your Wildest Dreams](/MUS218A-Soundscapes-FA2025/assignments/tech-rider/){:target="_blank"}  
+* [Technical Rider of Your Wildest Dreams](/MUS219-Composing-Sonic-Systems-WS2026/assignments/tech-rider/){:target="_blank"}  
 
 * * *  
 
