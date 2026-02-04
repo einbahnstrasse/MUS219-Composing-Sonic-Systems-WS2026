@@ -160,7 +160,30 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 
 * * *  
 
+## Week 4: {{ site.week-03 }}
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-04-topic }}</span>
+
+#### Monday — Class Canceled; Illness    
+
+#### Wednesday — Polyphony and Voice Allocation       
+
+##### Patches    
+- `bach.poly.05.polyphony.maxpat`
+- `simple.voice.polyCore.v01.maxpat`
+<!-- - MIDI subpatcher inside of `_scaffold.v01.maxpat` -->
+
+##### Terms, Concepts, Objects, Shortcuts
+- synthesis engine  
+- MIDI (Music Instrument Digital Interface)   
+- monosynthesizer     
+- additive synthesis    
+
+
+
+* * *     
+
 _More coming soon — check back frequently!_   
 
 * * *  
+
 
