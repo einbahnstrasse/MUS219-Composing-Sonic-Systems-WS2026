@@ -167,6 +167,9 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 
 #### Wednesday — Polyphony and Voice Allocation       
 
+#### Boiler (Downloads)     
+* [Bach Polyphony Tutorial Patches](https://github.com/einbahnstrasse/bach-poly-boiler-patches){:target="_blank"}    
+
 ##### Patches    
 - `bach.poly.05.polyphony.maxpat`
 - `simple.voice.polyCore.v01.maxpat`
@@ -176,9 +179,7 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 - synthesis engine  
 - MIDI (Music Instrument Digital Interface)   
 - monosynthesizer     
-- additive synthesis    
-
-
+- additive synthesis       
 
 * * *     
 
