@@ -191,10 +191,14 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 #### Boiler (Downloads)     
 * [Interacting With Bach Tutorial Patches](https://github.com/einbahnstrasse/interacting-with-bach-W2026){:target="_blank"}    
 
+#### Optional Reading   
+* [Toussaint Paper on Euclidean Rhythms](https://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf){:target="_blank"}    
+
 ##### Patches    
 - `bach.interaction.t07.euclidean.idea.maxpat`
+- `bach.interaction.t08.melodic.profile.maxpat`
 
-#### Wednesday 2/11 —        
+#### Wednesday 2/11 — Modulation Synthesis          
 
 _TBA_   
 
