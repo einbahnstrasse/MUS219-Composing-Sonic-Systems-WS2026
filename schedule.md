@@ -208,6 +208,8 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 
 {% include video id="rnwoUFhxQLo?si=MH6MS0kg92ae8DNQ" provider="youtube" %}
 
+[View the score](https://drive.google.com/file/d/1B5Yp6BBWGEFgFEMMCqfEIhWCdFJfF459/view?usp=sharing){:target="_blank"} for more information, if interested.   
+
 ##### Patches    
 - `RM.AM.FM.v01.onWaveforms.maxpat`     
 - `RM.AM.FM.v02.onSignals.maxpat`     
