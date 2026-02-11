@@ -213,7 +213,7 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 - `RM.AM.FM.v02.onSignals.maxpat`     
 
 ##### Assignment    
-* [Connecting Modulation to <bach.roll> + <poly~>](/MUS256-Blueprints-WS2026/assignments/string-bach-integration/){:target="_blank"}    
+* [Connecting Modulation to bach.roll + poly~](/MUS256-Blueprints-WS2026/assignments/string-bach-integration/){:target="_blank"}    
   
 * * *     
 
