@@ -196,12 +196,25 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 
 ##### Patches    
 - `bach.interaction.t07.euclidean.idea.maxpat`
-- `bach.interaction.t08.melodic.profile.maxpat`
+- ~~`bach.interaction.t08.melodic.profile.maxpat`~~     
 
 #### Wednesday 2/11 — Modulation Synthesis          
 
-_TBA_   
+#### Boiler (Downloads)       
+* [Test Sounds Media Folder](https://github.com/einbahnstrasse/synth-tech-media){:target="_blank"}    
 
+#### Listening
+* [Tristan Murail, _Atlantys_ (1985) for two Yamaha DX7 Synthesizers](https://youtu.be/rnwoUFhxQLo?si=MH6MS0kg92ae8DNQ){:target="_blank"}    
+
+{% include video id="rnwoUFhxQLo?si=MH6MS0kg92ae8DNQ" provider="youtube" %}
+
+##### Patches    
+- `RM.AM.FM.v01.onWaveforms.maxpat`     
+- `RM.AM.FM.v02.onSignals.maxpat`     
+
+##### Assignment    
+* [Connecting Modulation to <bach.roll> + <poly~>](/MUS256-Blueprints-WS2026/assignments/string-bach-integration/){:target="_blank"}    
+  
 * * *     
 
 _More coming soon — check back frequently!_   
