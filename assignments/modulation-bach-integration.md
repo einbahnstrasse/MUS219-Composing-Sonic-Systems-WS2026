@@ -1,7 +1,7 @@
 ---
 layout: single    
 title: Modulation Synthesis + bach Integration    
-permalink: /modulation-bach-integration/    
+permalink: /assignments/modulation-bach-integration/    
 toc_icon: "graduation-cap"  
 toc: true      
 toc_sticky: true   
