@@ -212,7 +212,7 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 
 ##### Patches    
 - `RM.AM.FM.v01.onWaveforms.maxpat`     
-- `RM.AM.FM.v02.onSignals.maxpat`     
+- ~~`RM.AM.FM.v02.onSignals.maxpat`~~     
 
 ##### Assignment    
 * [Connecting Modulation to bach.roll + poly~](/MUS219-Composing-Sonic-Systems-WS2026/assignments/modulation-bach-integration/){:target="_blank"}    
