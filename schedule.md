@@ -219,6 +219,34 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
   
 * * *     
 
+## Week 6: {{ site.week-06 }}
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-06-topic }}</span>
+
+#### Monday 2/23 — Phi         
+
+#### Tutorials        
+* Look at a solution to the assignment   
+* Consider random-note generation (_briefly_ — more on this later)   
+
+#### Boiler (Downloads)       
+* [Phi Boiler](https://github.com/einbahnstrasse/phi-boiler){:target="_blank"}    
+
+#### Listening
+* [John Chowning, _Stria_ (1977)](https://youtu.be/988jPjs1gao?si=T054gKWSL2d1nzdx){:target="_blank"}    
+
+{% include video id="988jPjs1gao?si=T054gKWSL2d1nzdx" provider="youtube" %}   
+
+##### Patches    
+- `RM.AM.FM.v02.onSignals.maxpat`     
+- `_phi.v01.maxpat`     
+
+##### Terms, Concepts, Objects, Shortcuts
+- ring modulation     
+- golden ratio ("golden section")       
+- self-similarity            
+
+* * *     
+
 _More coming soon — check back frequently!_   
 
 * * *  
