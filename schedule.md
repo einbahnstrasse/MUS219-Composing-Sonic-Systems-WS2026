@@ -245,6 +245,12 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 - golden ratio ("golden section")       
 - self-similarity            
 
+#### Wednedsay 2/25 — Phi, Continued    
+
+##### Patches    
+- `_phi.v02.maxpat`     
+- `phi.polyCore.v02.maxpat`     
+
 * * *     
 
 _More coming soon — check back frequently!_   
