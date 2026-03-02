@@ -253,6 +253,20 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 
 * * *     
 
+## Week 7: {{ site.week-07 }}
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-07-topic }}</span>
+
+#### Monday 3/2 — Using Randomness + Reservoirs             
+
+#### Boiler (Downloads)       
+* [Randomness + Reservoirs Boiler](https://github.com/einbahnstrasse/week.5.boiler.patches){:target="_blank"}    
+
+##### Patches    
+- `03.two.voices.maxpat`     
+- `04.using.distributions.maxpat`     
+
+* * *     
+
 _More coming soon — check back frequently!_   
 
 * * *  
