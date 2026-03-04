@@ -265,6 +265,15 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 - `03.two.voices.maxpat`     
 - `04.using.distributions.maxpat`     
 
+#### Wednesday 3/4 — Wavetable Synthesis                
+
+#### Boiler (Downloads)       
+* [Wavetable Synthesis Boiler](https://github.com/einbahnstrasse/wavetable.boiler){:target="_blank"}    
+
+##### Patches    
+- `03.wavetable.synthesis.maxpat`     
+- `04.waveshaping.maxpat`     
+
 * * *     
 
 _More coming soon — check back frequently!_   
