@@ -270,9 +270,12 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 #### Boiler (Downloads)       
 * [Wavetable Synthesis Boiler](https://github.com/einbahnstrasse/wavetable.boiler){:target="_blank"}    
 
+##### Tutorials
+* [Debugging in Max](https://einbahnstrasse.github.io/Debugging-in-Max/){:target="_blank"}     
+   
 ##### Patches    
-- `03.wavetable.synthesis.maxpat`     
-- `04.waveshaping.maxpat`     
+- ~~`03.wavetable.synthesis.maxpat`~~ _(next week)_         
+- ~~`04.waveshaping.maxpat`~~ _(next week)_     
 
 * * *     
 
