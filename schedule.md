@@ -286,7 +286,10 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 ##### Patches    
 - `03.wavetable.synthesis.maxpat`   
 - `03a.buffer.interpolation.maxpat`            
-- `04.waveshaping.maxpat`           
+- `04.waveshaping.maxpat`        
+
+##### Assignment     
+* **For Wednesday**: Connect your fancy new wavetable synthesizer to the `<bach.roll>` in `04.using.distributions.maxpat` and drive the synthesizer using the correct pitches and note information originating from playback in your `<bach.roll>` sequence.   
 
 #### Wednesday 3/11 — Distortion Synthesis                 
 
