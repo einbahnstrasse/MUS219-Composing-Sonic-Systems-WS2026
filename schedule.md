@@ -265,17 +265,34 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 - `03.two.voices.maxpat`     
 - `04.using.distributions.maxpat`     
 
-#### Wednesday 3/4 — Wavetable Synthesis                
-
-#### Boiler (Downloads)       
-* [Wavetable Synthesis Boiler](https://github.com/einbahnstrasse/wavetable.boiler){:target="_blank"}    
+#### Wednesday 3/4 — Randomness, Cont.                    
 
 ##### Tutorials
 * [Debugging in Max](https://einbahnstrasse.github.io/Debugging-in-Max/){:target="_blank"}     
    
 ##### Patches    
-- ~~`03.wavetable.synthesis.maxpat`~~ _(next week)_         
-- ~~`04.waveshaping.maxpat`~~ _(next week)_     
+- `04.using.distributions.maxpat`       
+
+* * *     
+
+## Week 8: {{ site.week-08 }}
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-07-topic }}</span>
+
+#### Monday 3/9 — Wavetable Synthesis             
+
+#### Boiler (Downloads)       
+* [Wavetable Synthesis Boiler](https://github.com/einbahnstrasse/wavetable.boiler){:target="_blank"}    
+
+##### Patches    
+- `03.wavetable.synthesis.maxpat`   
+- `03a.buffer.interpolation.maxpat`            
+- `04.waveshaping.maxpat`           
+
+#### Wednesday 3/11 — Distortion Synthesis                 
+
+##### Patches   
+- `05.wavetable.distortion.bands.maxpat`     
+- `06.wavefolder.maxpat`  
 
 * * *     
 
