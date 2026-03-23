@@ -276,7 +276,7 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 * * *     
 
 ## Week 8: {{ site.week-08 }}
-### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-07-topic }}</span>
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-08-topic }}</span>
 
 #### Monday 3/9 — Wavetable Synthesis             
 
@@ -286,7 +286,7 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 ##### Patches    
 - `03.wavetable.synthesis.maxpat`   
 - `03a.buffer.interpolation.maxpat`            
-- `04.waveshaping.maxpat`        
+- ~~`04.waveshaping.maxpat`~~        
 
 ##### Assignment     
 * **For Wednesday**: Connect your fancy new wavetable synthesizer to the `<bach.roll>` in `04.using.distributions.maxpat` and drive the synthesizer using the correct pitches and note information originating from playback in your `<bach.roll>` sequence.   
@@ -294,10 +294,25 @@ _In lieu of class during inclement weather, follow the video tutorial and comple
 #### Wednesday 3/11 — Distortion Synthesis                 
 
 ##### Patches   
+- ~~`05.wavetable.distortion.bands.maxpat`~~     
+- ~~`06.wavefolder.maxpat`~~  
+
+* * *    
+
+## Week 9: {{ site.week-09 }}
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-09-topic }}</span>
+
+#### Monday 3/23 — Wavetable Synthesis, Continued              
+
+##### Upcoming Quiz   
+_Expect a short, in-class, written pop-quiz over the Debugging in Max slides sometime in the next 1-3 class sessions. Review the slides for preparation._  
+
+##### Patches   
+- `04.waveshaping.maxpat` 
 - `05.wavetable.distortion.bands.maxpat`     
 - `06.wavefolder.maxpat`  
 
-* * *     
+* * *    
 
 _More coming soon — check back frequently!_   
 
