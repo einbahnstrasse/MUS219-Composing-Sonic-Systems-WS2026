@@ -314,6 +314,31 @@ _Expect a short, in-class, written pop-quiz over the Debugging in Max slides som
 
 * * *    
 
+## Week 10: {{ site.week-10 }}
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-10-topic }}</span>
+
+#### Monday 3/39 — No Class                  
+
+#### Wednesday 4/1 — Guest Presentation (In Person)     
+_Jason Thorpe Buchannan, guest composer_        
+
+* * *    
+
+## Week 11: {{ site.week-11 }}
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-11-topic }}</span>
+
+#### Monday 4/5 — Filter as Process           
+
+##### Patches   
+- `lowpass.filter.generation.maxpat`   
+
+##### Assignment     
+* **For Saturday (normal submission schedule)**: Consider one of the wavetable patches we made during our wavetable unit in class EXCLUDING the one you already used for the assignment in Week 8 (e.g., in Weeks 8-10 we considered all sorts of wavetables, waveshaping, wavefolders, distortion, etc.). Take another one of these (or potenitally find a way to use both in the same polysnthesizer), build a `poly~` with it, and drive your synth using _your own_ generative process: combine what we've learned about distributions, including randomizing paramaters such as pitch and onset, to create something more pesonally nuanced. However, don't simply _copy_ and use default values given in class. It's your turn to create something of your own using the principles we've developed. You may also borrow from today's lowpass filter example, but again, the empahsis should be on developing your own control process and not simply using the patch you already made.  
+
+#### Wednesday 4/1 — No Class    
+
+* * *    
+
 _More coming soon — check back frequently!_   
 
 * * *  
