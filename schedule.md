@@ -339,6 +339,14 @@ _Jason Thorpe Buchannan, guest composer_
 
 * * *    
 
+## Week 12: {{ site.week-12 }}
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-12-topic }}</span>     
+
+#### Monday 4/13 — Presentation on Concert Patches             
+
+
+* * *    
+
 _More coming soon — check back frequently!_   
 
 * * *  
